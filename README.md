@@ -1,6 +1,6 @@
 # Inteligentni-agenti
 
-##Zadaće zadane:		24.12.2023.							
+Zadaće zadane:		24.12.2023.							
 NLZ 01	Izmijeniti NL Primjer 08 na način da se broj i artikli u popisu za kupovinu određuju slučajnim rasporedom kao i broj i vrste artikala raspoređenih po trgovini određuju slučajnim odabirom, a da se pametna kolica za kupovinu kreću prema najbližem artiklu s popisa koji već nije stavljen u kolica, a ne unaprijed utvrđenom putanjom.								
 									
 									
